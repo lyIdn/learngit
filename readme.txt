@@ -2,4 +2,5 @@ git is a distributed version control system
 git is free software distributed under the GPL
 this is my first use git
 ÐÇÆÚÈý
-121212121
+121212
+everything
